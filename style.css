@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+
+.titulo{
+    color: darkblue;
+    text-align: center;
+}
+
+fieldset{
+    margin-right: 70rem;
+}
+
+.central{
+    text-align: center;
+    color: darkslategrey;
+}
+
